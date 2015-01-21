@@ -42,7 +42,7 @@ add_numbers(5, 7)               # Will equal 12
 
 def average(num1, num2, num3):
   sum = num1 + num2 + num3
-  average = sum / 3
-  return average
+  avg = sum / 3
+  return avg
   
 average(2, 3, 4)                # Will equal 3
