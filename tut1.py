@@ -6,7 +6,7 @@
 False                       # This is a boolean. It can be either True or False.
 None                        # Exactly what it sounds like. It's a null value.
 "Hey!"                      # This is a string. It can contain letters, numbers, or pretty much anything you want. It must be surrounded by single or double quotes.
-[1, 5, "Hey", true]         # This is a list. It can contain multiple values. Must use brackets and commas.
+[1, 5, "Hey", True]         # This is a list. It can contain multiple values. Must use brackets and commas.
 {"name": "Joe", "age": 20}  # This is a dictionary. It's a bunch of corresponding keys and values. Must use braces, strings as keys, and commas.
 
 # Here are basic mathematic operations:
