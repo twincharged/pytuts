@@ -3,7 +3,7 @@
 # Here are the basic Python data types:
 
 3                           # This is a number. It can be an integer, decimal number (3.45), etc
-false                       # This is a boolean. It can be either true or false.
+False                       # This is a boolean. It can be either True or False.
 None                        # Exactly what it sounds like. It's a null value.
 "Hey!"                      # This is a string. It can contain letters, numbers, or pretty much anything you want. It must be surrounded by single or double quotes.
 [1, 5, "Hey", true]         # This is a list. It can contain multiple values. Must use brackets and commas.
